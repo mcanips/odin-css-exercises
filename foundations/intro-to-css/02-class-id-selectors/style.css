@@ -1,13 +1,19 @@
-p {
+.odd {
     background-color:pink;
     font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
-#blue-text{
+#second{
     color: blue;
     font-size: 36px;
 }
 
-.third-odd{
+.adjust-font-size{
     font-size:24px;
+}
+
+#fourth{
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
 }
